@@ -10,7 +10,6 @@ int main ()
     printf ("%f",c);
 
 
-
     return 0;
 
 }
