@@ -1,11 +1,12 @@
 #include <stdio.h>
 int main ()
 {
-    int a,b;
+    int a,b,s;
     printf ("please enter two integers:");
     scanf ("%d %d",&a,&b);
 
-    printf ("integer after swapping %d %d",b,a);
+    s=b;
+    printf ("integer after swapping %d %d",s,a);
 
 return 0;
 
