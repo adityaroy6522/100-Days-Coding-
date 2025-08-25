@@ -2,9 +2,9 @@
 int main ()
 {
     float a,b,c;
-    printf("a=");
+    printf("num1=");
     scanf ("%f",&a);
-    printf("b=");
+    printf("num2=");
     scanf ("%f",&b);
     c=a+b;
     printf ("%f",c);
@@ -12,13 +12,5 @@ int main ()
 
 
     return 0;
-
-
-
-
-
-
-
-
 
 }
