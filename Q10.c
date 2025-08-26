@@ -12,15 +12,4 @@ int main ()
     printf ("%d:%d:%d",h,m,s);
 
     return 0;
-
-
-
-
-
-
-
-
-
-
-
 }
