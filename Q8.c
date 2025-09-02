@@ -7,7 +7,7 @@ int main ()
 
     s=n*(n+1)/2;
     printf ("sum of first %d",n);
-    printf (" natural number is %d",s);
+    printf (" natural number is %d\n",s);
 
     return 0;
 }

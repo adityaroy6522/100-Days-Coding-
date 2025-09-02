@@ -5,7 +5,7 @@ int main ()
     printf ("please enter two integers:");
     scanf ("%d %d",&a,&b);
 
-    printf ("integer after swapping %d %d",b,a);
+    printf ("integer after swapping %d %d\n",b,a);
 
 return 0;
 

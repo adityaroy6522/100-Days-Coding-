@@ -14,7 +14,7 @@ int main ()
     printf ("your simple interst is %f\n",si);
 
     ci=p*pow(1+r/100,t)-p;
-    printf ("your compound interst is %f",ci);
+    printf ("your compound interst is %f\n",ci);
     
     return 0;
 }
